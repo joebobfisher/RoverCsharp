@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverCsharp", "RoverCsharp\RoverCsharp.csproj", "{2699033C-CE40-4B7A-9063-908D500A12A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoverTests", "RoverTests\RoverTests.csproj", "{EEE705FA-1E76-42FF-9150-6AF3BB4707C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2699033C-CE40-4B7A-9063-908D500A12A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2699033C-CE40-4B7A-9063-908D500A12A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2699033C-CE40-4B7A-9063-908D500A12A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2699033C-CE40-4B7A-9063-908D500A12A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE705FA-1E76-42FF-9150-6AF3BB4707C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE705FA-1E76-42FF-9150-6AF3BB4707C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE705FA-1E76-42FF-9150-6AF3BB4707C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE705FA-1E76-42FF-9150-6AF3BB4707C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

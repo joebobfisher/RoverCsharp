@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8e164a45_002D54f5_002D4ee7_002D8eb1_002Dc05d05409330/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RoverTestClass #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::EEE705FA-1E76-42FF-9150-6AF3BB4707C9::net6.0::TestProject1.RoverTestClass&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=b4a13e82_002D0f6c_002D4267_002Da196_002Da5faae1182d5/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="RoverTestClass" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::EEE705FA-1E76-42FF-9150-6AF3BB4707C9::net6.0::TestProject1.RoverTestClass&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d30a6184_002D59c4_002D440e_002Da70f_002D5873e2c24133/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="RoverTestClass #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::EEE705FA-1E76-42FF-9150-6AF3BB4707C9::net6.0::TestProject1.RoverTestClass&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
